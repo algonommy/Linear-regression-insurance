@@ -68,3 +68,6 @@ Setelah API berjalan:
 1. Setelah berhasil dieksekusi, Anda akan diberikan data response berupa JSON juga seperti contoh berikut:\
    `{'Age': 20, 'Insurance Cost': 3146.79, 'Sex': 'Male', 'Smoker': 'No'}`
 1. Hasil prediksi biaya asuransi terdapat pada value dari key `'Insurance Cost'` yang dapat Anda manfaatkan untuk aplikasi lain.
+
+## Deployment Results
+https://app-reli.herokuapp.com/predict
