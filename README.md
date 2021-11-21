@@ -70,4 +70,4 @@ Setelah API berjalan:
 1. Hasil prediksi biaya asuransi terdapat pada value dari key `'Insurance Cost'` yang dapat Anda manfaatkan untuk aplikasi lain.
 
 ## Deployment Results
-https://app-reli.herokuapp.com/predict
+https://app-reli.herokuapp.com/
